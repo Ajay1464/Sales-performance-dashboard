@@ -1,6 +1,6 @@
 Business Sales Performance Analytics – Power BI
 
-# FUTURE_DS_01 – Business Sales Performance Analytics
+# Business Sales Performance Analytics
 
 ## 📊 Project Overview
 This project analyzes business sales data to understand sales trends, profitability, customer segments, and regional performance using Power BI.
